@@ -1,6 +1,15 @@
 questions = [
     {
-        "question": "Oppression by corporations is more of a concern than oppression by governments.",
+	    "question": "Political compasses are dumb.",
+        "effect": {
+            "econ": 42,
+            "dipl": 42,
+            "govt": 42,
+            "scty": 42
+        }
+	},
+    {
+		"question": "Oppression by corporations is more of a concern than oppression by governments.",
         "effect": {
             "econ": 10,
             "dipl": 0,
